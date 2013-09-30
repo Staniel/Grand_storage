@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1592" started-at="2013-08-23T06:25:35Z" finished-at="2013-08-23T06:25:37Z">
+    <groups>
+      <group name="live">
+        <method signature="BucketApiLiveTest.AllTest()[pri:0, instance:org.jclouds.grandcloud.storage.v1.features.BucketApiLiveTest@11d8f879]" name="AllTest" class="org.jclouds.grandcloud.storage.v1.features.BucketApiLiveTest"/>
+      </group> <!-- live -->
+    </groups>
+    <test name="Default test" duration-ms="1592" started-at="2013-08-23T06:25:35Z" finished-at="2013-08-23T06:25:37Z">
+      <class name="org.jclouds.grandcloud.storage.v1.features.BucketApiLiveTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.jclouds.grandcloud.storage.v1.features.BucketApiLiveTest@11d8f879]" name="setup" is-config="true" duration-ms="912" started-at="2013-08-23T14:25:35Z" finished-at="2013-08-23T14:25:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AllTest()[pri:0, instance:org.jclouds.grandcloud.storage.v1.features.BucketApiLiveTest@11d8f879]" name="AllTest" duration-ms="670" started-at="2013-08-23T14:25:36Z" finished-at="2013-08-23T14:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.jclouds.grandcloud.storage.v1.features.BucketApiLiveTest@11d8f879]" name="tearDown" is-config="true" duration-ms="1" started-at="2013-08-23T14:25:37Z" finished-at="2013-08-23T14:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.jclouds.grandcloud.storage.v1.features.BucketApiLiveTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,5 @@
+#listing of all classes in the domain package (at this time of writing)
+#as some or all are likely to contain JAXB annotations
+#note that even if (newer) classes are missing, as long as they are statically referenced from
+#any of these classes they'll be included in the JAXB context.
+Bucket

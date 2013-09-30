@@ -1,0 +1,5 @@
+GET
+application/octet-stream
+
+Thu, 05 Jun 2008 16:38:19 GMT
+/coopis
